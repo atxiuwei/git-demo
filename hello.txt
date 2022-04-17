@@ -13,4 +13,4 @@ hello atxiuwei! hello git!
 hello atxiuwei! hello git!
 hello atxiuwei! hello git!
 hello atxiuwei! hello git!master test
-hello atxiuwei! hello git!
+hello atxiuwei! hello git!hot-fix test
